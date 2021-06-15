@@ -6,6 +6,6 @@ public class Vasco extends CamisetasEsportivas {
     
     @Override
     public void exibirInfo() {
-        System.out.println("Marca: Umbro \n Camiseta: Vasco. ");
+        System.out.println("Marca: Kappa \n Camiseta: Vasco. ");
     }
 }

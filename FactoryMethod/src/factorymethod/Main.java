@@ -21,7 +21,7 @@ public class Main {
         umbro.exibirInfo();
         
         FabricaDeCamisetas fabricaKappa = new FabricaKappa();
-        CamisetasEsportivas kappa = fabricaKappa.criarCamisetas("VASCO");
+        CamisetasEsportivas kappa = fabricaKappa.criarCamisetas("Vasco");
         kappa.exibirInfo();
     }
     
